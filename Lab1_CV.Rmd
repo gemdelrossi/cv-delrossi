@@ -3,7 +3,7 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{css, echo=FALSE}
+```{css, echo= TRUE}
 h1, h3, h4 {
   text-align: center;
 }
@@ -30,7 +30,7 @@ Panikkar, B., Zia, A., Sgorbati, S., Cohen, M., Abid, M., Fayyaz, M., Hashimi, N
 
 **Del Rossi, G.** (2018). To what extent do psychological distance and knowledge mediate the impact of algae blooms on cultural ecosystem services in the Lake Champlain Basin? *UVM Honors College Senior Theses.* 277. https://scholarworks.uvm.edu/hcoltheses/277  
 
-### Working Papers 
+ ###Working Papers 
 
 Zia, A., Delgado, A., Bucini, G., Merrill, S. C., Koliba, C., **Del Rossi, G.**, Moegenburg, S. M., Norby, B., & Smith, J. M. Socio-psychological determinants of cattle producers’ intent to comply with animal disease control practices: A structural equation modeling approach. Under review at *Risk Analysis*.
 
@@ -50,5 +50,22 @@ Zia, A., Merrill, S., Koliba, C., Clark, E., Bucini, G., **Del Rossi, G.**, Chen
 
 Attended weeklong workshop held by Institute for Environmental Diplomacy and Security (IEDS) at UVM & Center for the Advancement of Public Action (CAPA) at Bennington College. (March 12-16, 2018). *Facilitating environmental diplomacy and transboundary water sharing between Pakistan and Afghanistan.* Montreal, QC.
 
+### Related Experience
 
+**Vermont Council on Rural Development**, Montpelier, Vermont *March 2019-January 2020*]{style="float:right"}  
+*Fund Development & Communications Assistant*  
 
+* Research and identify prospect donors; conduct outreach with existing and prospect donors to financially support VCRD; cold call and solicit businesses for financial support via sponsorships or memberships; plan fundraising events
+* Aid in developing the Annual Report and quarterly newsletters focusing on community storytelling
+* Assist developing grant proposals; received approximately $200,000 grant funds throughout employmwent
+* Successfully garnered $45,000 in sponsorships for the 2019 VT Community Leadership Summit
+
+**University of Vermont**, Burlington, VT [*January 2018-August 2020*]{style="float:right"} 
+*Research Assistant for Dr. Asim Zia*
+
+Employed under a USDA grant titled “A Human Behavioral Approach to Reducing the Impact of Livestock Pest or Disease Incursions of Socio-Economic Importance”
+• Conduct in-depth literature reviews and annotated bibliographies on topics including partially observed stochastic games (POSGs) and machine learning, risk preferences, water quality early warning systems (EWS), and transboundary environmental diplomacy relating to water systems
+• Manage and format citations for papers, book chapters, and grant proposals
+• Edit and format papers for journals such as Risk Analysis; PNAS; Complexity, Governance, & Networks; International Journal of Disaster Risk Science; and Journal of Water Resources, Planning, and Management
+• Assisted in the development of the following grant proposals: MacArthur Foundation 100&Change ($100 million): Securing Clean Water in Conflict Zones through Environmental Diplomacy; German Development Bank (KFW) concept note ($10 million): Implementation of a Citizen Science Based Water Quality Monitoring Network in Transboundary Kabul River Basin; and NSF Smart Connected Communities ($2.5 million): Testing Artificial Intelligence Augmented Water Quality Early Warning Systems (AI-WaQEWS) in Transboundary Lake Champlain Basin
+• Organized visit and presentation for a visiting professor, Dr. Celine Rozenblat: “A multi-level networks’ perspective on complex urban systems”

@@ -4,20 +4,36 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Gemma Del Rossi
+```{css, echo=FALSE}
+h1, h3, h4 {
+  text-align: center;
+}
+```
+
+# **Gemma Del Rossi**
+
+#### gld42@cornell.edu | 315-261-9901
 
 ### Education
-**Cornell University** M.S. Candidate, Applied Economics and Management
+**Cornell University**  [*Expected Graduation May 2022*]{style="float:right"}  
+M.S. Candidate, Applied Economics and Management
 
-* Expected Graduation May 2022
+**University of Vermont**  [*Graduated December 2018*]{style="float:right"}   
+*Honors College*, Bachelor of Science Environmental Studies, Bachelor of Science Community and International Development 
 
-**University of Vermont** Honors College, Bachelor of Science Environmental Studies, Bachelor of Science Community and International Development 
-
-* Graduated December 2018 
 * *Cum Laude*; Dean’s List; Presidential Scholarship; Community & International Development Engaged Scholar Award 2018; America East Presidential Scholar-Athlete
-* **Honors Thesis:** To what extent do psychological distance and knowledge mediate the impact of algae blooms on cultural ecosystem services in the Lake Champlain Basin? 
 
 ### Publications 
 
+**Del Rossi, G.**, Hecht, J., & Zia, A. (2021). A mixed-methods analysis for improving farmer participation in agri-environmental payments for ecosystem services in Vermont, USA. *Ecosystem Services, 47,* 101223. doi:https://doi.org/10.1016/j.ecoser.2020.101223  
 
+Panikkar, B., Zia, A., Sgorbati, S., Cohen, M., Abid, M., Fayyaz, M., Hashimi, N., Ali, S., Ahmad, M., Aman, Z., Halasah, S., Rice, D., **Del Rossi, G.**, Ryan, B., Hameed, K., Hussain, M., & Salimee, N. (2019). Transboundary water governance in the Kabul River Basin: Implementing environmental and public diplomacy between Pakistan and Afghanistan. *Complexity, Governance, & Networks, 5*(1): 101-120. Doi: http://dx.doi.org/10.20377/cgn-80  
+
+**Del Rossi, G.** (2018). To what extent do psychological distance and knowledge mediate the impact of algae blooms on cultural ecosystem services in the Lake Champlain Basin? *UVM Honors College Senior Theses.* 277. https://scholarworks.uvm.edu/hcoltheses/277  
+
+### Working Papers 
+
+Zia, A., Delgado, A., Bucini, G., Merrill, S. C., Koliba, C., **Del Rossi, G.**, Moegenburg, S. M., Norby, B., & Smith, J. M. Socio-psychological determinants of cattle producers’ intent to comply with animal disease control practices: A structural equation modeling approach. Under review at *Risk Analysis*.
+
+Zia, A., Merrill, S., Koliba, C., Clark, E., Bucini, G., **Del Rossi, G.**, Cheney, N., Chimal, O., Shrum, T., Moegenberg, S., & Smith, J. Eliciting behavioral responses to alternate biosecurity risk management strategies in a partially observable stochastic game: Comparing the behaviors of online players with hog producers. Planning to submit to *Proceedings for the National Academy of Sciences (PNAS)*.
 

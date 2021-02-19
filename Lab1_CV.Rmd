@@ -1,5 +1,4 @@
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -36,4 +35,20 @@ Panikkar, B., Zia, A., Sgorbati, S., Cohen, M., Abid, M., Fayyaz, M., Hashimi, N
 Zia, A., Delgado, A., Bucini, G., Merrill, S. C., Koliba, C., **Del Rossi, G.**, Moegenburg, S. M., Norby, B., & Smith, J. M. Socio-psychological determinants of cattle producers’ intent to comply with animal disease control practices: A structural equation modeling approach. Under review at *Risk Analysis*.
 
 Zia, A., Merrill, S., Koliba, C., Clark, E., Bucini, G., **Del Rossi, G.**, Cheney, N., Chimal, O., Shrum, T., Moegenberg, S., & Smith, J. Eliciting behavioral responses to alternate biosecurity risk management strategies in a partially observable stochastic game: Comparing the behaviors of online players with hog producers. Planning to submit to *Proceedings for the National Academy of Sciences (PNAS)*.
+
+### Media 
+
+**Del Rossi, G.** (2018). Gemma Del Rossi: A fix for dairy. Retrieved from https://vtdigger.org/2018/12/26/gemma-del-rossi-fix-dairy/
+
+### Presentations
+
+**Del Rossi, G.**, Hecht, J., & Zia, A. (March 20, 2018). Farmer perceptions of agri-environmental programs: A look at the institutional design of EQIP and CREP in the Lake Champlain Basin. Poster presented at: *10th Annual Vermont EPSCoR Student Research Symposium*. Burlington, VT.
+
+**Del Rossi, G.** & Shafron, E. (April 27, 2017). A History of Vermont’s Agricultural Landscape. Oral presentation at: *University of Vermont Student Research Conference*. Burlington, VT.
+
+### Workshops
+
+Attended weeklong workshop held by Institute for Environmental Diplomacy and Security (IEDS) at UVM & Center for the Advancement of Public Action (CAPA) at Bennington College. (March 12-16, 2018). *Facilitating environmental diplomacy and transboundary water sharing between Pakistan and Afghanistan.* Montreal, QC.
+
+
 

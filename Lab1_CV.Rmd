@@ -1,0 +1,23 @@
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Gemma Del Rossi
+
+### Education
+**Cornell University** M.S. Candidate, Applied Economics and Management
+
+* Expected Graduation May 2022
+
+**University of Vermont** Honors College, Bachelor of Science Environmental Studies, Bachelor of Science Community and International Development 
+
+* Graduated December 2018 
+* *Cum Laude*; Dean’s List; Presidential Scholarship; Community & International Development Engaged Scholar Award 2018; America East Presidential Scholar-Athlete
+* **Honors Thesis:** To what extent do psychological distance and knowledge mediate the impact of algae blooms on cultural ecosystem services in the Lake Champlain Basin? 
+
+### Publications 
+
+
+
